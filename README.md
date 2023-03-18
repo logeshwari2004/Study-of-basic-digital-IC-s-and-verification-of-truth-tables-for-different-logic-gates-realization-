@@ -58,7 +58,7 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 ## Program:
-/*
+```
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: LOGESHWARI.P
 RegisterNumber:  212221230055
@@ -74,7 +74,7 @@ nand (y5,a,b);
 nor (y6,a,b);
 xnor (y7,a,b);
 endmodule
-*/
+```
 ## Logic symbol & Truthtable:
 
 ![DE1A](https://user-images.githubusercontent.com/94211349/226090333-7aea4c82-81f0-4c64-9210-df4e2d134299.png)
